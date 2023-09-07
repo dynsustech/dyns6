@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
+  link="seminars"
   text="Browse our Seminars"
   icon="fa-solid fa-arrow-right"
   flip=true

@@ -7,12 +7,12 @@ footer: images/Lor.jpg
 
 # site social media and other links
 links:
-  email: contact@dynsustech.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: dynsustech
-  twitter: dynsustech
-  youtube: dynsustech
+  #email: contact@dynsustech.com
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
+  #github: dynsustech
+  #twitter: dynsustech
+  #youtube: dynsustech
 
 ### jekyll settings
 

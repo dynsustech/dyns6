@@ -11,15 +11,7 @@
 
 
 
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: recent
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  #repo: greenelab/
-  tags:
-    - dynamics
+
 
 - title: Cool Package
   subtitle: a subtitle

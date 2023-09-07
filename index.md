@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="seminars"
+  link="Seminars"
   text="Browse our Seminars"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="Seminars"
   title="Our Seminars"
   flip=true
   style="bare"
